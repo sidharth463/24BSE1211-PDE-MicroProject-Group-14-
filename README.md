@@ -8,7 +8,7 @@ acting effectively as a mathematical low-pass
 filter to analyze signal degradation.
 
 ##  Group Members & Roles
-* *[Name]* - 
+* *[Sidharth.S]* - Group Leader
 * *[Name]* - 
 * *[Name]* -
 * *[Name]* 
