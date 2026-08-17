@@ -9,7 +9,7 @@ filter to analyze signal degradation.
 
 ##  Group Members & Roles
 * *Sidharth.S* - Group Leader
-* *Sourav.R* - Group member1
-* *[Name]* -
+* *Sourav.R* - Group Member1
+* *Thomas Mathew* - Group Member 2
 * *[Name]* 
 * *[Name]* -
