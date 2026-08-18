@@ -11,5 +11,5 @@ filter to analyze signal degradation.
 * *Sidharth.S* - Group Leader
 * *Sourav.R* - Group Member1
 * *Thomas Mathew* - Group Member 2
-* *[Name]* 
+* *Sivapriya K G* - Group Member3
 * *[Name]* -
